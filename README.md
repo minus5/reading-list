@@ -1,18 +1,18 @@
 # Software Literature
 
 ## INTRODUCTION
-Hi everyone, my name is Ksenija Kordi Sokolić and I work as a Product Manager in development company minus5. Today’s topic is not really a PM theme, but is related to one of my passions - that is bringing structure to chaos. And let’s be honest there is at least a little bit of chaos in each and every small software development company today.
+Hi everyone, my name is Ksenija and I work as a Product Manager in development company minus5. Today’s topic is not really a PM theme, but is related to one of my passions - that is bringing structure to chaos. And let’s be honest there is at least a little bit of chaos in each and every small software development company today.
 
-What I will show you here today is WHY you should start reading books as one part of your career grow so in ten years you will not be average but one of the excellent developers.
-I will also present you with a recommended reading list that we prepared in-house and that should help you on that journey.
+What I will show you here today is WHY you should start reading books as one part of your career grow so in ten years you will not be just good but one of the few excellent developers.
+And I will present you with a recommended reading list that we prepared in-house and that should help you on that journey.
 
-I will explain why we needed Career Path, which skill areas we believe are elemental and to which skill area this recommended list is related to. I will also introduce you to Dreyfus model and if you haven't heard of it before it really opened up my mind.
+I will explain why we needed Career Path, which skill areas we believe are elemental and to which skill area this recommended list is related to. 
 
 ## TECHNICAL CAREER PATH
 
-It all started when we grew from a company that employees few engineers (that were all seniors and mostly our friends) to a bigger company of about 20 people where not anymore everyone was at the same skill and experience level. After some painful project failures, we realized we had to found a way to scale one of the main values we have built our company on - and that is **technical excellence**. We had to adjust our expectations to different levels but at the same time we didn't want junior level to become excuse for low expectations and/or weak performances.
+It all started when we grew from a company that employees few engineers (that were all seniors and mostly our friends) to a bigger company of about 20 people where not anymore everyone was at the same skill and experience level. After some painful project failures, we realized we had to found a way to scale one of the main values we have built our company on - and that is **technical excellence**. We had to adjust our expectations to different levels but at the same time we didn't want junior level to become excuse for low expectations or weak performances.
 
-To satisfy that need (and some other needs company faced at a time) we started by creating our Technical Career Path and divided it into 5 levels:
+To satisfy that need (and some other needs company faced at a time) we started by creating our Technical Career Path that consists of 5 levels:
 
 * Junior
 * Independent
@@ -26,57 +26,60 @@ What is important is that we do not look at it as an excuse for getting/not-gett
 
 We are all aware that these days you (software developers) are job-hopping and earning promotions on a daily basis. And your titles change as well, so you can earn expert-sounding ("rock-stars" and "ninjas") titles very quickly and probably in some cases much before your skill level deserves it. 
 
-As we see it, there are two primary uses of this framework. One is to set expectations that are in line with company practices, needs and culture. The other one is to give everyone within a company framework for their personal growth. It should give them something to work towards, it should be a measure of your personal growth.
-
-For the needs of this talk try to look at this path as your personal development path and not something company enforces! 
+We created this Career Path to support our company's practices, needs and culture. And if your professional goals are aligned with company ones (and it should be if you want to grow your career within that company) then Career Path gives you something to work towards. Then you can look at it as the best possible framework for your personal growth and not something company enforces. And this is the way we look at it.
 
 ## SKILL AREAS
 
-We detected three main skill areas that we consider each individual should work on during their professional growth.
+Let's see which three main skill areas we detected each individual should work on during their professional growth.
 
-! Of course primary skill for each developer is his **chosen technical field of expertise (domain)** (be it backend, frontend, DB, you name it). There are many challenges in each domain and I believe you all put effort to be on the track with all the latest news. 
+Of course primary skill for each developer is his **chosen technical field of expertise (domain)** (be it backend, frontend, DB, you name it).  
 
-! Then there are **communication skills**. Last years huge improvement in this field is being addressed with introduction of agile methods. 
+This skill area is related to HOW you do stuff (how you use revision control, specific framework, query a database). You are all aware it is critically important, you consciously put great effort in enhancing this skill area and most talks on this conference are related to it (if you don't know how to do stuff than nothing else is important). It is not my field I will not talk about it today.
+
+Then there are **communication skills**. Last year's huge improvement in this field is being addressed with introduction of agile methods. We all are becoming aware that communication is important and I will not talk about it neither.
 
 But we believe that there is one more crucial modern skill that is usually unfairly neglected and that is **PROBLEM SOLVING (THINKING) SKILL**.
- 
-1. Do you know that despite progress in technology, programming languages and techniques the defect density (the number of bugs programmers introduce into programs) has remained fairly constant for the past forty years?
 
-2. “ten years of experience or the same year of experience ten times”
+It's not the same to have enough experience and knowledge to get stuff done; and to know why you are doing something in a certain way, and how it fits into the big picture.
+ 
+“ten years of experience or the same year of experience ten times”
+
+Why is this skill area so important?
 
 **_That's because software isn't designed in an IDE or other tool. It's imagined and created in your heads. Programming is all about problem solving. It requires creativity, invention and critical thinking._**
 
-But how can we help younger colleagues enhance problem solving and thinking skills? According to **Dreyfus model of skill acquisition** it depends on their level as there is a huge difference in learning needs and styles at different levels.
+What I have noticed is that most never specifically focus on developing this skill area. It is common opinion that you will improve your problem solving skills by enhancing your field of expertise. But I don't agree. 
+
+I see problem solving as a separate field and I believe that you need to actively focus on improving it and this is something I will talk about today. The problem is it's not so straightforward as enhancing your programming skills.
+
+Within a company, we asked ourselves what can we do to help younger colleagues enhance problem solving and thinking skills? 
+
+First thing we did, we looked how our senior experts get there.  
 
 ## RECOMMENDED READING LIST
 
 *SLIKA NAŠE KNJIŽNICE + LINK NA PUBLIC KNJIŽNICU*
 [minus5 library](https://minus5.libib.com/)
 
-Our CEO and CTO are both bookworms, and with a company library with over 250 printed pieces we wanted to use it to support growth of our colleagues. So we could just tell everybody to read all 250 titles (and all other millions of books available online) and problem solved :)
+We realized that our CEO and CTO are both bookworms, and we have a company library with over 250 printed pieces. So we decided to use it to support growth of our colleagues. 
 
-As we learned from Dreyfus model we can't be so naive to believe that just telling people to read books will help them. 
+So we could just tell everybody to read all 250 titles (and all other millions of books available online) and problem solved :) 
 
-We decided to use knowledge and experience of experts within our team and create a recommended reading list of software classics that will help juniors and independents on their journey to expertise.
+Well, it's not that easy.
 
-WHY BOOKS?
+According to **Dreyfus model of skill acquisition** just telling people to read books will not be so helpful, as their learning needs and styles differ depending on their level.
 
 ## DREYFUS MODEL
 
-Dreyfus model explains how people acquire skills. It outlines five discrete stages (Novice, Advanced Beginner, Competent, Proficient, Expert) through which one must pass on the journey from beginner to expert (and it is not accidentally that we also have five stages in our Career Path, although we do not map Dreyfus model one on one to our Career Path). 
-The Dreyfus model describes how and why our abilities, attitudes, capabilities and perspectives change according to skill level.
-Beginners and experts are fundamentally different. They see the world in different ways, they react in different ways and they learn in different ways.
+Dreyfus model explains how people acquire skills outlining five stages (Novice, Advanced Beginner, Competent, Proficient, Expert) through which one must pass on the journey from beginner to expert.
 
-You don't just "know more"; you experience fundamental differences in how you perceive the world, how you approach problem solving, and the mental models you form and use.
+Although Career Path also has five stages it is important to understand the difference between the two. Career Path is based on combination of different skill areas. Dreyfus model describes how we progress in acquiring one specific skill.
 
-It explains that Juniors don't particularly want to learn, they just want to accomplish an immediate goal. They want information fast and they don't see the "big picture".
+What is important for today's talk is what Dreyfus model describes that beginners and experts are fundamentally different. They see the world in different ways, they react in different ways and what is the most important they learn in different ways.
 
-To reach an expert level will take at least 10 years of practice. Not simply doing the job, but actively focusing at improving.
-To progress you must accept responsibility, simply following orders will not work.
+How you will see further you don't just "know more"; you experience fundamental differences in how you perceive the world, how you approach problem solving, and the mental models you form and use.
 
-task oriented -> problem oriented
-
-So now we know that we need to adjust learning strategy to different levels but that still does not answer the question how we can do it. It is obviously a complex issue and requires a complex solution but one of the things we did is why am I here with you today.
+So we realized if we wanted our colleagues to read books as part of enhancing their problem solving skills we need to create a recommended reading list, and not just that - we need to divide that list per level.
 
 ## STARTER KIT - JUNIORS
 
@@ -101,10 +104,7 @@ Note: Seniors (and higher levels) create their own learning (i.e. they don't nee
 
 ## CONCLUSION
 
-Notes:
-* We believe in never settling for the status quo. We are always focused on learning and growing.
-* We all have to learn - and relearn - constantly. And then we have to apply this learning to daily problems.
-* Einstein: *Once you stop learning, you start dying* & *We can't solve problems by using the same kind of thinking we used when we created them*
+Einstein: *We can't solve problems by using the same kind of thinking we used when we created them*
 
 
 ## LINKS:
@@ -112,5 +112,6 @@ Notes:
 * [How Developers Stop Learning: Rise of the Expert Beginner](https://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)
 * [Building a technical career path at Spotify](https://labs.spotify.com/2016/02/08/technical-career-path/)
 * [Construx Developer's Plan](http://www.construx.com/Resources/Developer_Professional_Development_Plan/)
+* [The traits of a proficient programmer](https://www.oreilly.com/ideas/the-traits-of-a-proficient-programmer)
 
 Inspired by: [Pragmatic Thinking and Learning, Andy Hunt](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)
