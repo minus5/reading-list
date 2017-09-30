@@ -24,9 +24,9 @@ How many of you have heard about Career Path? Or Engineer Ladder?
 
 What is important is that we do not look at it as an excuse for getting/not-getting raise or opportunity for putting some fancy title on LinkedIn. It is just a side effect.
 
-We are all aware that these days you (software developers) are job-hopping and earning promotions on a daily basis. And your titles change as well, so you can earn expert-sounding ("rock-stars" and "ninjas") titles very quickly and probably in some cases much before your skill level deserves it. 
+We are all aware that these days you (software developers) are job-hopping and earning promotions on a daily basis. And your titles change as well, so you can earn expert-sounding ("rock-stars" and "ninjas") titles very quickly and probably in some cases much before your skill level deserves it. And that is fine, because it means you will also get good salary that goes with it, but titles are not important, your capabilities are.
 
-We created this Career Path to support our company's practices, needs and culture. And if your professional goals are aligned with company ones (and it should be if you want to grow your career within that company) then Career Path gives you something to work towards. Then you can look at it as the best possible framework for your personal growth and not something company enforces. And this is the way we look at it.
+We created this Career Path to support our company's practices, values and culture. And if your professional goals are aligned with company ones (and it should be if you want to grow your career within that company) then Career Path gives you something to work towards. Then you can look at it as the best possible framework for your personal growth and not something company enforces. And this is the way we look at it.
 
 ## SKILL AREAS
 
@@ -50,18 +50,18 @@ Why is this skill area so important?
 
 What I have noticed is that most never specifically focus on developing this skill area. It is common opinion that you will improve your problem solving skills by enhancing your field of expertise. But I don't agree. 
 
-I see problem solving as a separate field and I believe that you need to actively focus on improving it and this is something I will talk about today. The problem is it's not so straightforward as enhancing your programming skills.
+I see problem solving as a separate field and I believe that you need to actively focus on improving it and this is something I will talk about today. 
 
-Within a company, we asked ourselves what can we do to help younger colleagues enhance problem solving and thinking skills? 
+Within a company, we asked ourselves what can we do to help younger colleagues enhance problem solving and thinking skills? The problem is it's not so straightforward as enhancing your programming skills.
 
-First thing we did, we looked how our senior experts get there.  
+The first thing we did, we looked how our senior experts get there.  
 
 ## RECOMMENDED READING LIST
 
 *SLIKA NAŠE KNJIŽNICE + LINK NA PUBLIC KNJIŽNICU*
 [minus5 library](https://minus5.libib.com/)
 
-We realized that our CEO and CTO are both bookworms, and we have a company library with over 250 printed pieces. So we decided to use it to support growth of our colleagues. 
+Our CEO and CTO are both bookworms, and we have a company library with over 250 printed pieces. So we realized that one of the things we can do to support grow of our colleagues is to encourage them to read books. 
 
 So we could just tell everybody to read all 250 titles (and all other millions of books available online) and problem solved :) 
 
@@ -73,13 +73,11 @@ According to **Dreyfus model of skill acquisition** just telling people to read 
 
 Dreyfus model explains how people acquire skills outlining five stages (Novice, Advanced Beginner, Competent, Proficient, Expert) through which one must pass on the journey from beginner to expert.
 
-Although Career Path also has five stages it is important to understand the difference between the two. Career Path is based on combination of different skill areas. Dreyfus model describes how we progress in acquiring one specific skill.
+Although Career Path also has five stages it is important to understand the difference between the two. Career Path gives you overview what is expected on each level based on combination of different skill areas. Dreyfus model describes how we progress in acquiring one specific skill.
 
-What is important for today's talk is what Dreyfus model describes that beginners and experts are fundamentally different. They see the world in different ways, they react in different ways and what is the most important they learn in different ways.
+It describes that beginners and experts are fundamentally different. How you will see further how you progress on that journey you don't just "know more". How you see the world, how you react and what is the most important how you learn changes depending on your level. 
 
-How you will see further you don't just "know more"; you experience fundamental differences in how you perceive the world, how you approach problem solving, and the mental models you form and use.
-
-So we realized if we wanted our colleagues to read books as part of enhancing their problem solving skills we need to create a recommended reading list, and not just that - we need to divide that list per level.
+So let's see how Dreyfus models describes each level and how did we use it to encourage reading within our company.
 
 ## STARTER KIT - JUNIORS
 
@@ -98,20 +96,15 @@ So we realized if we wanted our colleagues to read books as part of enhancing th
 
 **Learning Strategy**: "Help me find what I need"
 
-**_SELECTED TITLES FROM INDEPENDENT'S LIST_**
+## SENIORS
 
-Note: Seniors (and higher levels) create their own learning (i.e. they don't need a list)!
+* they need the big picture
+* they can correct previous poor task performance (they can reflect on how they’ve done and revise their approach to perform better the next time)
+* they can learn from the experience of others
+
+**Learning Strategy**: "I create my own learning"
+
 
 ## CONCLUSION
 
 Einstein: *We can't solve problems by using the same kind of thinking we used when we created them*
-
-
-## LINKS:
-* [Dreyfus model](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
-* [How Developers Stop Learning: Rise of the Expert Beginner](https://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)
-* [Building a technical career path at Spotify](https://labs.spotify.com/2016/02/08/technical-career-path/)
-* [Construx Developer's Plan](http://www.construx.com/Resources/Developer_Professional_Development_Plan/)
-* [The traits of a proficient programmer](https://www.oreilly.com/ideas/the-traits-of-a-proficient-programmer)
-
-Inspired by: [Pragmatic Thinking and Learning, Andy Hunt](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)
