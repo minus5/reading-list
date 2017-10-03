@@ -24,7 +24,7 @@ How many of you have heard about Career Path? Or Engineer Ladder?
 
 What is important is that we do not look at it as an excuse for getting/not-getting raise or opportunity for putting some fancy title on LinkedIn. It is just a side effect.
 
-We are all aware that these days you (software developers) are job-hopping and earning promotions on a daily basis. And your titles change as well, so you can earn expert-sounding ("rock-stars" and "ninjas") titles very quickly and probably in some cases much before your skill level deserves it. And that is fine, because it means you will also get good salary that goes with it, but titles are not important, your capabilities are.
+We are all aware that these days you (software developers) are job-hopping and earning promotions on a daily basis. And your titles change as well, so you can earn expert-sounding ("rock-stars" and "ninjas") titles very quickly and probably in some cases much before your skill level deserves it. And that is fine, because it means you will also get good paychecks that goes with it, but titles are not important, your capabilities are.
 
 We created this Career Path to support our company's practices, values and culture. And if your professional goals are aligned with company ones (and it should be if you want to grow your career within that company) then Career Path gives you something to work towards. Then you can look at it as the best possible framework for your personal growth and not something company enforces. And this is the way we look at it.
 
@@ -34,11 +34,11 @@ Let's see which three main skill areas we detected each individual should work o
 
 Of course primary skill for each developer is his **chosen technical field of expertise (domain)** (be it backend, frontend, DB, you name it).  
 
-This skill area is related to HOW you do stuff (how you use revision control, specific framework, query a database). You are all aware it is critically important, you consciously put great effort in enhancing this skill area and most talks on this conference are related to it (if you don't know how to do stuff than nothing else is important). It is not my field I will not talk about it today.
+This skill area is related to HOW you do stuff (how you use revision control, specific framework, query a database). You are all aware it is critically important, you consciously put great effort in enhancing this skill area and most talks on this conference are related to it (if you don't know how to do stuff than nothing else is important). It is not my field od expertise I will not talk about it today.
 
 Then there are **communication skills**. Last year's huge improvement in this field is being addressed with introduction of agile methods. We all are becoming aware that communication is important and I will not talk about it neither.
 
-But we believe that there is one more crucial modern skill that is usually unfairly neglected and that is **PROBLEM SOLVING (THINKING) SKILL**.
+But there is one more crucial modern skill that is usually unfairly neglected and that is **PROBLEM SOLVING (THINKING) SKILL**.
 
 It's not the same to have enough experience and knowledge to get stuff done; and to know why you are doing something in a certain way, and how it fits into the big picture.
  
@@ -50,7 +50,7 @@ Why is this skill area so important?
 
 What I have noticed is that most never specifically focus on developing this skill area. It is common opinion that you will improve your problem solving skills by enhancing your field of expertise. But I don't agree. 
 
-I see problem solving as a separate field and I believe that you need to actively focus on improving it and this is something I will talk about today. 
+I believe this area requires active focus and my todays talk is related to this area.  
 
 Within a company, we asked ourselves what can we do to help younger colleagues enhance problem solving and thinking skills? The problem is it's not so straightforward as enhancing your programming skills.
 
@@ -61,13 +61,13 @@ The first thing we did, we looked how our senior experts get there.
 *SLIKA NAŠE KNJIŽNICE + LINK NA PUBLIC KNJIŽNICU*
 [minus5 library](https://minus5.libib.com/)
 
-Our CEO and CTO are both bookworms, and we have a company library with over 250 printed pieces. So we realized that one of the things we can do to support grow of our colleagues is to encourage them to read books. 
+Our CEO and CTO are both bookworms, and we have a company library with over 250 printed pieces. So we realized that reading books was important part of their journey to expertise and realized one of the things we can do to support grow of our colleagues is to encourage them to read books as well.
 
 So we could just tell everybody to read all 250 titles (and all other millions of books available online) and problem solved :) 
 
-Well, it's not that easy.
+Well, it turned out it's not that easy.
 
-According to **Dreyfus model of skill acquisition** just telling people to read books will not be so helpful, as their learning needs and styles differ depending on their level.
+At some point during this process I was introdused to **Dreyfus model of skill acquisitions** and it opened my mind by exaplaining that learning needs and styles differ depending on people's level. 
 
 ## DREYFUS MODEL
 
@@ -75,9 +75,9 @@ Dreyfus model explains how people acquire skills outlining five stages (Novice, 
 
 Although Career Path also has five stages it is important to understand the difference between the two. Career Path gives you overview what is expected on each level based on combination of different skill areas. Dreyfus model describes how we progress in acquiring one specific skill.
 
-It describes that beginners and experts are fundamentally different. How you will see further how you progress on that journey you don't just "know more". How you see the world, how you react and what is the most important how you learn changes depending on your level. 
+Dreyfus model describes that beginners and experts are fundamentally different. How you will see further how you progress on that journey you don't just "know more". How you see the world, how you react and what is the most important how you learn changes depending on your level. 
 
-So let's see how Dreyfus models describes each level and how did we use it to encourage reading within our company.
+So let's see how Dreyfus models describes each level and how we used it to encourage reading within our company.
 
 ## STARTER KIT - JUNIORS
 
@@ -85,7 +85,9 @@ So let's see how Dreyfus models describes each level and how did we use it to en
 * they want information fast (e.g. learning a new language and you are quickly looking for that one method, you are not interested in lengthy theory or the basics yet again);
 * they still do not see "the big picture".
 
-**Learning Strategy**: "Show me how" and "Help me do it better"
+**Learning Strategy**: "Show me how" and "Help me do it better"ž
+
+use their knowledge and experience to help jounger collegueus on their journey to expertise.
 
 **_SELECTED TITLES FROM JUNIOR'S LIST_**
 
