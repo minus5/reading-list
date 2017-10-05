@@ -67,17 +67,27 @@ So we could just tell everybody to read all 250 titles (and all other millions o
 
 Well, it turned out it's not that easy.
 
-At some point during this process I was introdused to **Dreyfus model of skill acquisitions** and it opened my mind by exaplaining that learning needs and styles differ depending on people's level. 
+At some point during this process I was introduced to **Dreyfus model of skill acquisition** and it opened my mind by explaining that learning needs and styles differ depending on people's level. 
 
 ## DREYFUS MODEL
 
-Dreyfus model explains how people acquire skills outlining five stages (Novice, Advanced Beginner, Competent, Proficient, Expert) through which one must pass on the journey from beginner to expert.
+Dreyfus model was developed by two researchers (brothers) who studied how humans learn and gain new skills as they wanted to advance artifical intelligence. They wanted to write software that will learn and attain skills in the same manner that humans do.
 
-Although Career Path also has five stages it is important to understand the difference between the two. Career Path gives you overview what is expected on each level based on combination of different skill areas. Dreyfus model describes how we progress in acquiring one specific skill.
+As outcome of their research they developed Dreyfus model that explains how people acquire skills outlining five stages (Novice, Advanced Beginner, Competent, Proficient, Expert) through which one must pass on the journey from beginner to expert.
 
 Dreyfus model describes that beginners and experts are fundamentally different. How you will see further how you progress on that journey you don't just "know more". How you see the world, how you react and what is the most important how you learn changes depending on your level. 
 
-So let's see how Dreyfus models describes each level and how we used it to encourage reading within our company.
+Three most important changes along the way are the following:
+
+* Moving away from reliance on rules to intuition
+* A change in perception, where a problem is no longer a collection of equally relevant bits but a complete and unique whole where only certain bits are relevant
+* Finally, a change from being a detached observer of the problem to an involved part of the system itself
+
+Although Career Path also has five stages it is important to understand the difference between the two. Career Path gives you overview what is expected on each level based on combination of different skill areas. Dreyfus model describes how we progress in acquiring one specific skill.
+
+I will now show you how we applied Dreyfus model to our Career Path to see learning needs of each level.
+
+Remember that we are focusing on one specific skill area, and that is problem solving and not combination of skills in general. Dreyfus model does not rate the whole person, it is applicable per skill. It is probably that you are at the different level at each of the three main skill areas I described. 
 
 ## STARTER KIT - JUNIORS
 
@@ -85,9 +95,7 @@ So let's see how Dreyfus models describes each level and how we used it to encou
 * they want information fast (e.g. learning a new language and you are quickly looking for that one method, you are not interested in lengthy theory or the basics yet again);
 * they still do not see "the big picture".
 
-**Learning Strategy**: "Show me how" and "Help me do it better"ž
-
-use their knowledge and experience to help jounger collegueus on their journey to expertise.
+**Learning Strategy**: "Show me how" and "Help me do it better"
 
 **_SELECTED TITLES FROM JUNIOR'S LIST_**
 
@@ -110,3 +118,11 @@ use their knowledge and experience to help jounger collegueus on their journey t
 ## CONCLUSION
 
 Einstein: *We can't solve problems by using the same kind of thinking we used when we created them*
+
+The occasion for this talk was creation of recommended reading list that focuses not on your programming skills but on problem solving and provides you with the bigger picture that should help you with your professional grow. Nevertheless, although reading books is very important part of that journey, it is just one part of the puzzle.
+
+There are many different ways for developing skills alongside reading books (by experience, by attending conferences, taking classes), and the best result will give combination of those. 
+
+What I would like you to take with you from this talk, is to keep focus on developing your skills, especially problem solving skills. 
+I know that today with short deadlines and high job demands it is very hard to invest additional effort in learning. **But once we stop learning, we start dying.**
+
