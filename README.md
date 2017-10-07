@@ -83,11 +83,10 @@ Three most important changes along the way are the following:
 * A change in perception, where a problem is no longer a collection of equally relevant bits but a complete and unique whole where only certain bits are relevant
 * Finally, a change from being a detached observer of the problem to an involved part of the system itself
 
-Although Career Path also has five stages it is important to understand the difference between the two. Career Path gives you overview what is expected on each level based on combination of different skill areas. Dreyfus model describes how we progress in acquiring one specific skill.
+Although Career Path also has five stages it is important to understand the difference between the two. Career Path gives you overview what is expected on each level based on combination of different skill areas. Dreyfus model describes how we progress in acquiring one specific skill. 
+Dreyfus model does not rate the whole person, it is applicable per skill. It is probably that you are at the different level at each of the three main skill areas I described. 
 
 I will now show you how we applied Dreyfus model to our Career Path to see learning needs of each level.
-
-Remember that we are focusing on one specific skill area, and that is problem solving and not combination of skills in general. Dreyfus model does not rate the whole person, it is applicable per skill. It is probably that you are at the different level at each of the three main skill areas I described. 
 
 ## STARTER KIT - JUNIORS
 
